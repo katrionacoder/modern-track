@@ -13,4 +13,3 @@ const App = () => {
 };
 
 export default App;
-https://github.com/new
